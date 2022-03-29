@@ -1,0 +1,10 @@
+INDEX VERSION 1.4+D:\p3\Assisted Practice\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2831563247.index
+3252647886.index
+717785053.index
+2840376229.index
+915451857.index
+1573893963.index
+18463309.index
+3509891536.index
+3161170097.index
